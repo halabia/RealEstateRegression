@@ -1,3 +1,3 @@
 # RealEstateRegression
 
-A regression model created to examine housing prices in Taiwan and predict future values.
+A regression model created to analyze housing prices in Taiwan and use predictive models to determine the optimal time to buy a property.
