@@ -8,7 +8,7 @@ import statistics;
 import math
 
 #Read Data and assign variables
-estateData = pd.read_csv(r'/Users/aj/Documents/IBEHS 4C03/Regression/Real Estate.csv');
+estateData = pd.read_csv(r'/Users/aj/Documents/Regression/Real Estate.csv');
 
 #Remove undesired values from dataset
 estateData = estateData.drop(['No','X5 latitude','X6 longitude', 'X2 house age', 'X3 distance to the nearest MRT station','X4 number of convenience stores'],axis=1);
